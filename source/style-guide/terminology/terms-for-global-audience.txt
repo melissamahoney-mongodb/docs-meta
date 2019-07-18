@@ -1,8 +1,14 @@
 .. _terms-for-global-audience:
 
-=================================
-Terminology for a Global Audience
-=================================
+=============================
+Writing for a Global Audience
+=============================
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
 
 MongoDB is a global company, with customers in many countries. A small
 amount of content has been translated, but most has not, which means
@@ -11,13 +17,6 @@ consume our English content. All of the guidelines in this topic
 ("Basic writing guidelines") are designed to make content easy to
 understand for all audiences, but the following guidelines will
 especially clarify content for global audiences.
-
--  `Don't use idioms or colloquialisms <#don-t-use-idioms-or-colloquialisms>`__
--  `Avoid metaphorical terms <#avoid-metaphorical-terms>`__
--  `Don't use humor <#don-t-use-humor>`__
--  `Use jargon carefully <#use-jargon-carefully>`__
--  `Use culture-neutral language and examples <#use-culture-neutral-language-and-examples>`__
--  `Use culture-neutral graphics <#use-culture-neutral-graphics>`__
 
 Don't Use Idioms or Colloquialisms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
